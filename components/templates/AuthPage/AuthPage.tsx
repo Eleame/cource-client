@@ -109,7 +109,7 @@ const AuthPage = () => {
               <p
                 className={`${styles.switch__description} ${styles.description} ${darkModeClass}`}
               >
-                Enter your personal details and start your journey with us
+                ( use root/root for testing or register )
               </p>
             </>
           )}
